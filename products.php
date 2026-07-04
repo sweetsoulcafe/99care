@@ -186,7 +186,7 @@ $total = count($images);
 </nav>
 
 <div class="mobile-menu" id="mobileMenu">
-  <a href="#">회사소개</a>
+  <a href="about.php">회사소개</a>
   <a href="products.php" style="color:#7EC8F4;">제품소개</a>
   <a href="#">게시판</a>
   <a href="#" class="sub-link">공지사항</a>
