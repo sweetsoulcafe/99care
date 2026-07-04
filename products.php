@@ -252,7 +252,7 @@ $total = count($images);
       </div>
       <div class="case-info">
         <span class="case-tag">체어A/S</span>
-        <div class="case-title">유니트체어 리모델링 후 설치 03</div>
+        <div class="case-title">유니트체어 리모델링 후 설치 01</div>
         <div class="case-desc">노후 유니트체어 리모델링 및 신규 설치 현장입니다.</div>
       </div>
     </div>
@@ -265,7 +265,7 @@ $total = count($images);
       </div>
       <div class="case-info">
         <span class="case-tag">체어A/S</span>
-        <div class="case-title">유니트체어 리모델링 후 설치 04</div>
+        <div class="case-title">유니트체어 리모델링 후 설치 02</div>
         <div class="case-desc">노후 유니트체어 리모델링 및 신규 설치 현장입니다.</div>
       </div>
     </div>
